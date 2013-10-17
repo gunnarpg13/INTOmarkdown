@@ -12,6 +12,8 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Lengstann tíma tók að setja upp Linux hjá hópnum. Við notuðum Ubuntu og hvorki live boot af usb penna né virtual box gekk lengi vel. Að lokum tókst það þó eftir margar tilraunir á nokkrum vélum.
 
+![alt text](http://i.imgur.com/TDsqgOB.jpg "Ubuntu að ræsast")
+
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
