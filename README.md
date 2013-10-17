@@ -3,7 +3,7 @@
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
 * Edda Pétursdóttir
-* Gísli Guðmundsson
+* Gísli Rafn Guðmundsson
 * Gunnar Páll Gunnarsson
 
 ## 1. Linux uppsetning
